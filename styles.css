@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+header {
+    text-align: center;
+}
+
+#historia, #brasil, #faixas, #principais-golpes, #termos-comuns {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    border-radius: 8px;
+}
+
+.lista-faixas {
+    list-style-type: square;
+    color: #005f73;
+}
+
+.lista-golpes {
+    list-style-type: decimal;
+    color: #333;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+
